@@ -116,12 +116,7 @@ Handles posts, comments, user profiles, leaderboard, and moderation using PHP + 
 ---
 
 
-For community module:
 
-* Place `community.php` in your PHP environment
-* Import the MySQL database file
-
----
 
 ## ▶️ Usage
 
